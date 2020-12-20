@@ -12,11 +12,11 @@ This analysis is to help Louise understand how different campaigns failed or suc
 
 ### *Analysis of Outcomes based on Launch Date*
 
-
+![Theater Outcomes vs Launch Date](/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### *Analysis of Outcomes based on Goals*
 
-
+![Outcomes based on Goals](/Resources/Outcomes_vs_Goals.png)
 
 ### *Challenges and Difficulties Encountered*
 
